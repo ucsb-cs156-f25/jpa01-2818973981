@@ -1,10 +1,7 @@
 # jpa01-2818973981
 
 
-* TODO: Correct the "deployed at" link to app on Dokku (below)
-  then delete this TODO.  Replace it with 
-  a link to your running app on Dokku, e.g.
-  https://jpa01-cgaucho.dokku-14.cs.ucsb.edu
+
 
 Deployed at: https://jpa01-2818973981.dokku-07.cs.ucsb.edu
 
